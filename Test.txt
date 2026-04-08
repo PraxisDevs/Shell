@@ -1,6 +1,0 @@
-auth.garena.com/universal/oauth:benfancity:Benben123@
-auth.garena.com/login/:vorapong54:m5410123324010
-auth.garena.com/oauth/login:taolabac2001n:dat01257351243
-auth.garena.com/:935278122:cake0935278122
-auth.garena.com/oauth/login:moszatep02:0846387993m
-auth.garena.com/oauth/login:jacksofin:amy027499486
