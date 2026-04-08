@@ -67,6 +67,6 @@ PraxisAI/
 PraxisAI is configured with a custom identity based on the system prompt in `data-assets/system-prompt.txt`.
 
 - **Name**: PraxisAI
-- **Model**: P900 (built on Alveo-4 P720 foundation)
+- **Model**: P900 (built on Qwen3.5 foundation)
 - **Creator**: CozzyLabs / Praxis Solutions
 - **Owner**: itzC9 / C9 / Yuri
